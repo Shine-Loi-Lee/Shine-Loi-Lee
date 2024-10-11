@@ -11,6 +11,7 @@ B.S., in Military Digital Convergence, Ajou University, Korea (Mar 2020 ~ Aug 20
 Gyeonggibuk Science High School, Korea
 
 ## Professional Experiences
+Software Engeneer, Inter Ultimate (Sep 2024 ~)\
 English Teacher, Sky English Cram School (Jan 2020 ~ Jun 2020, Mar 2024 ~ Oct 2024)\
 Intern, KAI(Korea Aerospace Industries), UAV Development Team (Jan 2023 ~ Feb 2023)\
 Math Teacher, Emto Math Cram School (Nov 2021 ~ Jun 2022)
