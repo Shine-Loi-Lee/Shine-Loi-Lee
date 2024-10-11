@@ -1,5 +1,5 @@
 # Shine Loi Lee (Lee Junhyuk)
-Nationality: Korea\
+Nationality: South Korea\
 Email: shine.sunrose@gmail.com
 
 ## Interests
