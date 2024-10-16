@@ -12,9 +12,7 @@ Gyeonggibuk Science High School, Korea
 
 ## Professional Experiences
 Software Engeneer, Inter Ultimate (Sep 2024 ~)\
-English Teacher, Sky English Cram School (Jan 2020 ~ Jun 2020, Mar 2024 ~ Oct 2024)\
 Intern, KAI(Korea Aerospace Industries), UAV Development Team (Jan 2023 ~ Feb 2023)\
-Math Teacher, Emto Math Cram School (Nov 2021 ~ Jun 2022)
 
 ## Special Skills
 Certifications
@@ -26,6 +24,13 @@ Languages
 - Korean (Native)
 - English (Fluent)
 - Russian (Basic)
+
+## Projects
+Creating Programming Language
+- HRON (v1.0.0)
+
+Developing Applications
+- Vinca(developing)
 
 ## Special Activities
 Scholarships
