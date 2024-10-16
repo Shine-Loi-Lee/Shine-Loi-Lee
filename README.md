@@ -12,7 +12,7 @@ Gyeonggibuk Science High School, Korea
 
 ## Professional Experiences
 Software Engeneer, Inter Ultimate (Sep 2024 ~)\
-Intern, KAI(Korea Aerospace Industries), UAV Development Team (Jan 2023 ~ Feb 2023)\
+Intern, KAI(Korea Aerospace Industries), UAV Development Team (Jan 2023 ~ Feb 2023)
 
 ## Special Skills
 Certifications
