@@ -29,9 +29,6 @@ Languages
 Creating Programming Language
 - HRON (v1.0.0)
 
-Developing Applications
-- Vinca(developing)
-
 ## Special Activities
 Scholarships
 - Full-Tuition Scholarship
