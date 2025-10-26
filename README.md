@@ -7,13 +7,13 @@ Quantum Computer\
 Quantum Information Theory
 
 ## Education
-B.S., in Military Digital Convergence, Ajou University, Korea (Mar 2020 ~ Aug 2024)\
-Gyeonggibuk Science High School, Korea
+- B.S., in Military Digital Convergence, Ajou University, Korea (Mar 2020 ~ Aug 2024)
+- Gyeonggibuk Science High School, Korea
 
 ## Professional Experiences
-Military Service, Republic of Korea Army,Ground Operations Command, Fires Brigade, Cryptographic Specialist(Aug 2025 ~ Feb 2027)\
-Software Engeneer, Inter Ultimate (Sep 2024 ~ Jan 2025)\
-Intern, KAI(Korea Aerospace Industries), UAV Development Team (Jan 2023 ~ Feb 2023)
+- Military Service, Republic of Korea Army,Ground Operations Command, Fires Brigade, Cryptographic Specialist(Aug 2025 ~ Feb 2027)
+- Software Engeneer, Inter Ultimate (Sep 2024 ~ Jan 2025)
+- Intern, KAI(Korea Aerospace Industries), UAV Development Team (Jan 2023 ~ Feb 2023)
 
 ## Special Skills
 Certifications
